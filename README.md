@@ -20,7 +20,7 @@ Allocation transaction: bafy2bzaced4wt2vqbdwodsg4mu35hfxzk2tccnu2hhzt5srleg2m4xx
 
 Client name:  Dong Fong Technologies Vietnam Company Limited<br>
 Website:  http://vn.dongfong.com.tw/about.html<br>
-Introduction: 1. Dongfong Technology is a famous transnational IDC technical service provider in Taiwan and Southeast Asia. Since its establishment, Dongfong Technology has been committed to providing customers with one-stop IDC room and network services.<br>
+Introduction: Dongfong Technology is a famous transnational IDC technical service provider in Taiwan and Southeast Asia. Since its establishment, Dongfong Technology has been committed to providing customers with one-stop IDC room and network services.<br>
 Application: https://github.com/filecoin-project/filecoin-plus-client-onboarding/issues/293<br>
 DataCap allocated: 2TB<br>
 Address: f17chz2xuedput42kfhfs722f7q6lk7ue4ioi2zyi<br>
